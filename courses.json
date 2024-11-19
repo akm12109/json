@@ -1,1 +1,16 @@
-course
+[
+    {
+        "id": 1,
+        "title": "Learn Python for Data Science",
+        "category": "Data Science",
+        "description": "A comprehensive course on Python for data analysis and visualization.",
+        "downloadLink": "link_to_download"
+    },
+    {
+        "id": 2,
+        "title": "Introduction to Cybersecurity",
+        "category": "Cybersecurity",
+        "description": "Understand the basics of cybersecurity and how to protect systems.",
+        "downloadLink": "link_to_download"
+    }
+]
